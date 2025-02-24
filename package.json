@@ -1,0 +1,22 @@
+{
+  "name": "scribble-heaven",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "TEJAS_PRANAV_VEDANT_MAHENDRA",
+  "license": "ISC",
+  "description": "E-commerce Website",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.10.1",
+    "morgan": "^1.10.0",
+    "nodemon": "^3.1.9"
+  }
+}
