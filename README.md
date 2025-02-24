@@ -2,6 +2,7 @@
 <h1>E-commerce Website</h1>
 <h2>Objective</h2>
 The objective of this E-commerce website is to facilitate seamless online buying and selling of products while providing a secure, user-friendly experience. Key goals include:<br>
+
 <ul>
     <li>Enabling easy online transactions.</li>
     <li>Ensuring secure payment processing.</li>
